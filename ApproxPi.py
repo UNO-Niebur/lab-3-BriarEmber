@@ -1,7 +1,7 @@
 #ApproxPi.py
-#Name:
-#Date:
-#Assignment:
+#Name:Devyn Conaway
+#Date:2/7/2026
+#Assignment:Lab 3
 import math
 import time
 
